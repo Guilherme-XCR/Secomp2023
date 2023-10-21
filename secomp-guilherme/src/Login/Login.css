@@ -1,0 +1,18 @@
+*{
+    color: white;
+}
+
+.loginScreen {
+    background-color: #303030;
+    min-height: 400px;
+    border-radius: 50px;
+}
+
+.inputs{
+    margin-top: 50px;
+}
+
+.loginButton{
+
+    margin-top: 20px;
+}
